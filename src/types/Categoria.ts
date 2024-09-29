@@ -1,4 +1,4 @@
 export type Categoria ={
     label:string
-    icon:JSX.Element
+    icon?:JSX.Element
 }
